@@ -1,0 +1,14 @@
+C:\Users\n3574\source\repos\WTF\WTF\bin\Debug\netcoreapp3.1\WTF.exe
+C:\Users\n3574\source\repos\WTF\WTF\bin\Debug\netcoreapp3.1\WTF.deps.json
+C:\Users\n3574\source\repos\WTF\WTF\bin\Debug\netcoreapp3.1\WTF.runtimeconfig.json
+C:\Users\n3574\source\repos\WTF\WTF\bin\Debug\netcoreapp3.1\WTF.runtimeconfig.dev.json
+C:\Users\n3574\source\repos\WTF\WTF\bin\Debug\netcoreapp3.1\WTF.dll
+C:\Users\n3574\source\repos\WTF\WTF\bin\Debug\netcoreapp3.1\WTF.pdb
+C:\Users\n3574\source\repos\WTF\WTF\obj\Debug\netcoreapp3.1\WTF.csproj.AssemblyReference.cache
+C:\Users\n3574\source\repos\WTF\WTF\obj\Debug\netcoreapp3.1\WTF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n3574\source\repos\WTF\WTF\obj\Debug\netcoreapp3.1\WTF.AssemblyInfoInputs.cache
+C:\Users\n3574\source\repos\WTF\WTF\obj\Debug\netcoreapp3.1\WTF.AssemblyInfo.cs
+C:\Users\n3574\source\repos\WTF\WTF\obj\Debug\netcoreapp3.1\WTF.csproj.CoreCompileInputs.cache
+C:\Users\n3574\source\repos\WTF\WTF\obj\Debug\netcoreapp3.1\WTF.dll
+C:\Users\n3574\source\repos\WTF\WTF\obj\Debug\netcoreapp3.1\WTF.pdb
+C:\Users\n3574\source\repos\WTF\WTF\obj\Debug\netcoreapp3.1\WTF.genruntimeconfig.cache
